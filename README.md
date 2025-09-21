@@ -1,6 +1,6 @@
 # Guardian Trade Lite (MT5)
 
-A simple **Position Size Calculator** Expert Advisor for MetaTrader 5.  
+It’s a Position Size & Risk Management tool for MetaTrader 5 that helps traders manage risk effectively. 
 Easily manage your **risk**, **lot size**, and **entry setup** directly on the chart.
 
 ---
