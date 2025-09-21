@@ -1,4 +1,4 @@
-# Guardian Trade Lite (MT5)
+# Guardian Trader Lite (MT5)
 
 It’s a Position Size & Risk Management tool for MetaTrader 5 that helps traders manage risk effectively. 
 Easily manage your **risk**, **lot size**, and **entry setup** directly on the chart.
