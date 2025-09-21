@@ -50,7 +50,7 @@ Easily manage your **risk**, **lot size**, and **entry setup** directly on the c
 
 ## 📥 Download
 
-[Download Guardian Trade Lite (EX5)](https://github.com/Thirtynader/Guardian-Trade-Lite-MT5-/releases/download/1.00/Thirtynader-Guardian.Trade.Lite.ex5)
+[Download Guardian Trade Lite (EX5)](https://github.com/Thirtynader/Guardian-Trader-Lite-MT5/releases/download/1.00/Thirtynader-Guardian.Trader.Lite.ex5)
 
 Place the downloaded **EX5 file** in your `MQL5/Experts` folder and restart MetaTrader 5.
 
