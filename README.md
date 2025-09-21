@@ -44,6 +44,7 @@ Easily manage your **risk**, **lot size**, and **entry setup** directly on the c
 ## Notes
 - This EA does **not** open trades automatically. It only helps calculate position size.
 - Works on all symbols and timeframes.
+- **According to money management rules, I recommend always setting the risk percentage between 1% and 2%.**
 
 ---
 
