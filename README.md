@@ -25,10 +25,10 @@ Easily manage your **risk**, **lot size**, and **entry setup** directly on the c
 ## Screenshots
 
 ### Panel and Lines
-![Guardian Trade Lite Screenshot 1](Screenshot-GT1.jpg)
+![Guardian Trade Lite Screenshot 1](Screenshot-GT3.jpg)
 
 ### Settings
-![Guardian Trade Lite Screenshot 2](Screenshot-GT2.jpg)
+![Guardian Trade Lite Screenshot 2](Screenshot-GT4.jpg)
 
 ---
 
