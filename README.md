@@ -1,0 +1,52 @@
+# Guardian Trade Lite (MT5)
+
+A simple and lightweight **Position Size Calculator** Expert Advisor for MetaTrader 5.  
+Easily manage your **risk**, **lot size**, and **entry setup** directly on the chart.
+
+---
+
+## Features
+-  Drag & Drop **Stop Loss** and **Entry Price** lines.
+-  Auto-calculates **lot size** based on account balance and risk %.
+-  Adjustable panel (move anywhere on chart).
+-  Lightweight, simple, and user-friendly.
+
+---
+
+## How to Use
+1. Attach the EA to your chart.
+2. Click **Start** to generate Entry & Stop Loss lines.
+3. Drag the lines to your desired price levels.
+4. Enter your **risk %** in the input field.
+5. Lot size will be calculated automatically.
+
+---
+
+## Screenshots
+
+### Panel and Lines
+![Guardian Trade Lite Screenshot 1](Screenshot-GT1.jpg)
+
+### Settings
+![Guardian Trade Lite Screenshot 2](Screenshot-GT2.jpg)
+
+---
+
+## Inputs
+| Input              | Description              | Default |
+|--------------------|--------------------------|---------|
+| StopLossColor      | Stop Loss line color     | Red     |
+| EntryLineColor     | Entry line color         | Yellow  |
+| LineWidth          | Line thickness           | 2       |
+
+---
+
+## Notes
+- This EA does **not** open trades automatically. It only helps calculate position size.
+- Works on all symbols and timeframes.
+
+---
+
+## License
+MIT © [Thirtynader](https://github.com/Thirtynader)
+
